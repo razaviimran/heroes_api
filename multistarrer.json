@@ -1,0 +1,29 @@
+{
+	"Multi Starrer" : 
+		[	
+			{
+				"name": "Kohram", 
+				"img" : "https://i.imgur.com/kVXDoGS.jpg", 
+				"pdf_url": "",
+				"tags": ["nagraj", "dhruv","bhediya", "doga", "shakti", "steel", "tiranga", "parmanu"]
+			},
+			{
+				"name": "Nagayan Rann Kaand", 
+				"img": "https://i.imgur.com/Eov0L3l.jpg", 
+				"pdf_url": ""
+			},
+			{
+				"name": "SarvNayak SarvRann", 
+				"img": "https://i.imgur.com/ZJHB36J.jpg", 
+				"pdf_url": ""
+			},
+			{"name": "Angaare", "img": "https://i.imgur.com/e8sBdE1.jpg", "pdf_url": ""},
+			{"name": "SarvShaktimaan", "img": "https://i.imgur.com/VOBFUU5.jpg", "pdf_url": ""},
+			{"name": "Zalzala", "img": "https://i.imgur.com/nMVh90N.jpg", "pdf_url": ""},
+			{
+				"name": "SarvaNayak Yugandhar", 
+				"img": "", 
+				"pdf_url": "https://drive.google.com/file/d/1qdijUyPoBv03stZq2yMkSuiBewKO9gVG/view?usp=sharing"
+			}
+		],
+}
